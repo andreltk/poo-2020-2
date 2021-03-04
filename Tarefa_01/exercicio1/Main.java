@@ -1,4 +1,5 @@
-//Feito por André Luiz Teixeira Kohlrausch
+//Autor: André Luiz Teixeira Kohlrausch <andreluiztkufg@gmail.com>
+
 package exercicio1;
 
 public class Main {

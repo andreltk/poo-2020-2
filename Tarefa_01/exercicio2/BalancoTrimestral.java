@@ -1,3 +1,5 @@
+//Autor: André Luiz Teixeira Kohlrausch <andreluiztkufg@gmail.com>
+
 package exercicio2;
 
 public class BalancoTrimestral {

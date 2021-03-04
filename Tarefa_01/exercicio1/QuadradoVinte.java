@@ -1,7 +1,4 @@
-/*
- * Corrigir que está considerando o número 27
- * Encontra melhor forma de fazer
- * */
+//Autor: André Luiz Teixeira Kohlrausch <andreluiztkufg@gmail.com>
 
 package exercicio1;
 import java.lang.Math;

@@ -1,3 +1,4 @@
+//Autor: André Luiz Teixeira Kohlrausch <andreluiztkufg@gmail.com>
 
 package exercicio1;
 
