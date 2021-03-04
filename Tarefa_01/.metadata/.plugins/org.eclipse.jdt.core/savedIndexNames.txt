@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+/home/altk/Documentos/Matérias/POO/Tarefa_01/.metadata/.plugins/org.eclipse.jdt.core
-2180482064.index
